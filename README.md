@@ -2,6 +2,8 @@ A simple weather dashboard web app built with HTML, CSS, and JavaScript. Display
 
 Usage:
 
-1.Clone the repository:
+1.Clone the repository.
+
 2.Open index.html in your browser.
+
 3.Enter the city name to get weather details.
